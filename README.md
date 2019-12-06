@@ -1,2 +1,0 @@
-# FlashMob_Express
-SOCIAL MEDIA MANAGEMENT
